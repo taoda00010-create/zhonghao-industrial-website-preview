@@ -1,0 +1,8 @@
+{
+  "rule_version": "rules-2026.07.24.24",
+  "claim_version": "claims-2026.07.23.1",
+  "manifest_sha256": "fce2e67113253fbd13d31124b074725cccf9a0b298ea5f7adb19abc4fe8033f9",
+  "target_domain": "smzhenergy.com",
+  "identity": "Zhonghao Energy is an industrial raw-material supplier and exporter rooted in Shenmu, Shaanxi. We provide factory-direct supply through long-term local partner production facilities. Zhonghao handles overseas customer development, specification confirmation, supply coordination, export, inspection arrangements and customer service.",
+  "deployment_authorized": false
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Magnesium ingot price factors diagram</title>
+  <desc id="desc">Industrial vector composition with magnesium ingots and a changing market line.</desc>
+  <defs><linearGradient id="metal" x1="0" x2="1"><stop stop-color="#f7f4ec"/><stop offset=".48" stop-color="#b9c2c8"/><stop offset="1" stop-color="#eef2f3"/></linearGradient></defs>
+  <rect width="800" height="520" fill="#0b1f33"/>
+  <g opacity=".22" stroke="#fff"><path d="M0 104H800M0 208H800M0 312H800M0 416H800"/><path d="M100 0V520M200 0V520M300 0V520M400 0V520M500 0V520M600 0V520M700 0V520"/></g>
+  <path d="M64 348C142 326 172 256 244 271s96 74 168 28 100-127 170-99 86 72 154-28" fill="none" stroke="#e76522" stroke-width="10" stroke-linecap="round"/>
+  <g fill="url(#metal)" stroke="#fff" stroke-width="3">
+    <path d="M118 363l111-31 80 47-110 39z"/><path d="M199 418l110-39 86 47-112 43z"/><path d="M487 326l106-36 91 45-110 43z"/>
+  </g>
+  <g fill="#e76522"><circle cx="244" cy="271" r="11"/><circle cx="412" cy="299" r="11"/><circle cx="582" cy="200" r="11"/></g>
+</svg>

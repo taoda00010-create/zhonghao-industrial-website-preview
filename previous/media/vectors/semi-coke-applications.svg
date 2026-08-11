@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Semi coke industrial applications diagram</title>
+  <desc id="desc">Industrial vector composition connecting material particles to three furnace routes.</desc>
+  <rect width="800" height="520" fill="#e7edf0"/>
+  <g fill="#0b1f33"><circle cx="122" cy="178" r="34"/><circle cx="179" cy="145" r="27"/><circle cx="196" cy="215" r="39"/><circle cx="113" cy="243" r="25"/><circle cx="164" cy="282" r="31"/></g>
+  <path d="M244 215H374M374 215l86-102M374 215l94 0M374 215l86 105" fill="none" stroke="#e76522" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="none" stroke="#0b1f33" stroke-width="7">
+    <path d="M478 68h192l-25 102H503z"/><path d="M486 170h176v42H486z"/>
+    <path d="M484 174h184l-18 104H501z"/><path d="M492 278h168v42H492z"/>
+    <path d="M478 282h192l-25 105H503z"/><path d="M486 387h176v42H486z"/>
+  </g>
+  <g fill="#245f8f"><path d="M525 108h98l-12 26h-74z"/><path d="M529 215h94l-11 26h-76z"/><path d="M525 326h98l-12 26h-74z"/></g>
+</svg>

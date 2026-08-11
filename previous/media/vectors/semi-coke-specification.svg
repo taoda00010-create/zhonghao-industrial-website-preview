@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-labelledby="title desc">
+  <title id="title">Semi coke specification diagram</title>
+  <desc id="desc">Industrial vector composition with semi coke particles, sieve bands and chemistry markers.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#d6dde2" stroke-width="1"/></pattern>
+    <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#e76522"/><stop offset="1" stop-color="#b84a18"/></linearGradient>
+  </defs>
+  <rect width="800" height="520" fill="#eef1f2"/><rect width="800" height="520" fill="url(#grid)" opacity=".65"/>
+  <path d="M70 376H730" stroke="#0b1f33" stroke-width="4"/><path d="M126 326H674M182 276H618" stroke="#245f8f" stroke-width="3" stroke-dasharray="12 12"/>
+  <g fill="#101c27" stroke="#eef1f2" stroke-width="5">
+    <path d="M130 322l34-42 51 9 19 48-31 44-57-9z"/><path d="M225 286l43-48 54 22 8 59-49 30-52-19z"/><path d="M342 304l35-59 61-3 37 53-27 57-68 5z"/><path d="M486 270l48-35 57 25 11 58-45 38-59-22z"/><path d="M602 315l31-40 49 8 24 45-29 42-55-5z"/>
+  </g>
+  <g fill="url(#glow)"><circle cx="155" cy="153" r="34"/><circle cx="300" cy="129" r="22"/><circle cx="440" cy="166" r="28"/><circle cx="603" cy="120" r="18"/></g>
+  <g stroke="#0b1f33" stroke-width="3"><path d="M155 187v72M300 151v83M440 194v45M603 138v93"/></g>
+</svg>

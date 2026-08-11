@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://taoda00010-create.github.io/zhonghao-industrial-website-preview/previous/sitemap-index.xml

@@ -1,0 +1,9 @@
+{
+  "id": "ZH-LOGO-TEMP-01",
+  "status": "approved-temporary",
+  "sourceFile": "5.png",
+  "sourceSha256": "edbbe5c6573ff3ff7c78cd05b0738aa211150a89d34f447b133757d6a367c0a5",
+  "treatment": "deterministic crop, white-background cleanup and responsive export; no generative redraw",
+  "approvedBy": "Eric",
+  "approvedAt": "2026-07-16"
+}
